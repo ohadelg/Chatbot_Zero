@@ -1,0 +1,11 @@
+frontend/build
+frontend/node_modules
+api/__pycache__
+.venv
+venv
+.DS_Store
+.env
+data/parser.py
+data/rules.json
+keys/
+keys/vertex_AI_user_gcp.json
